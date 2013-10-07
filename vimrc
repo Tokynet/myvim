@@ -2,5 +2,5 @@ call pathogen#infect()
 call pathogen#helptags()
 syntax on
 set background=dark
-colorscheme kolor
+colorscheme solarized
 filetype plugin indent on
