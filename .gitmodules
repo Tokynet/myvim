@@ -10,9 +10,6 @@
 [submodule "bundle/syntastic"]
 	path = bundle/syntastic
 	url = https://github.com/scrooloose/syntastic.git
-[submodule "bundle/vim-color-solarized"]
-	path = bundle/vim-color-solarized
-	url = git://github.com/altercation/vim-colors-solarized.git
 [submodule "bundle/vim-kolor"]
 	path = bundle/vim-kolor
 	url = https://github.com/zeis/vim-kolor.git
