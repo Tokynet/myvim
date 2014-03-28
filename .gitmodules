@@ -25,3 +25,6 @@
 [submodule "bundle/puppet-syntax-vim"]
 	path = bundle/puppet-syntax-vim
 	url = https://github.com/puppetlabs/puppet-syntax-vim.git
+[submodule "bundle/mv-vim-puppet"]
+	path = bundle/mv-vim-puppet
+	url = http://github.com/mv/mv-vim-puppet.git
