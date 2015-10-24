@@ -25,3 +25,6 @@
 [submodule "bundle/ultisnips"]
 	path = bundle/ultisnips
 	url = https://github.com/SirVer/ultisnips.git
+[submodule "bundle/Dockerfile"]
+	path = bundle/Dockerfile
+	url = http://github.com/ekalinin/Dockerfile.vim.git
